@@ -1,0 +1,85 @@
+Science and Technology
+Science and TechnologyScience encompasses the systematic study of the structure and behaviour of the physical and natural world through observation and experiment, and technology is the application of scientific knowledge for practical purposes. Oxford Reference provides more than 210,000 concise definitions and in-depth, specialist encyclopedic entries on the wide range of subjects within these broad disciplines.
+
+Our coverage comprises authoritative, highly accessible information on the very latest terminology, concepts, theories, techniques, people, and organizations relating to all areas of science and technology—from astronomy, engineering, physics, computer science, and mathematics, to life and earth sciences, chemistry, environmental science, biology, and psychology. Written by trusted experts for researchers at every level, entries are complemented by illustrative line drawings, equations, and charts wherever useful.
+
+The evolution of science is like a boon to the world, as human beings come to know a lot about the world they are living in including the activities they indulge into. Furthermore, the development of technology along with the advancement in Science helps to bring in a revolution in various fields such as medicine, agriculture, education, information and technology, and many more.
+
+Evolution of Science
+In the present world, if we think of any sort of development, then the presence of science and technology cannot be ignored.
+
+What is Science?
+Science fundamentally is the systematic study of the structure and behavior of the natural and physical world through observations and experiments.
+
+Study of science evolved with the civilization of human beings.
+
+What is Technology?
+Technology (which is basically derived from the Greek word ‘technologia’) is an art, skill or ability, which is used to create and develop products and acquire knowledge.
+
+Scientists used their knowledge to develop technology and then used technology to develop Science; so, because of this reason science and technology are an integrated term in today’s world.
+
+Consider the following points to understand the relationship between Science and Technology −
+
+Contribution of Science to Technology
+Contribution of Technology to Science
+Let us discuss these points in brief.
+
+Contribution of Science to Technology
+Let us now understand how Science has contributed to Technology −
+
+Science as a direct source of new technological ideas
+For example, innovation and development medical instruments; nuclear technology, radar system, etc.
+
+Contribution of Science
+Science as a source of engineering
+Most of the technical knowledge used in the designing and development of tools and techniques is actually an outcome of ‘engineering science’.
+
+Engineering Science
+Science has also helped in the development of human skills. This is one of the fundamental contributions of Science.
+
+Contribution of Technology to Science
+Consider the following points to understand the contribution of Technology to Science −
+
+Technology as a source of scientific challenges
+The development in the field of technology paves way for research and development in the field of Science. For example, space science is one of them. Technological development likewise indirectly stimulates basic research in the field of science.
+
+Instrumentation and measurement techniques
+Development of advanced instruments facilitated scientists to measure the distance between sun and earth, the intensity of sun’s rays, the revolution of celestial bodies, internal problems of human beings, life of a bridge, etc.
+
+Science vs. Technology
+ScienceTechnology
+Diffen › Technology
+The words science and technology can and often are used interchangeably. But the goal of science is the pursuit of knowledge for its own sake while the goal of technology is to create products that solve problems and improve human life. Simply put, technology is the practical application of science.
+
+Comparison chart
+Science versus Technology comparison chart
+Edit this comparison chart	Science	Technology
+Result Relevance	Making virtually value-free statements	Activities always value-laden
+Evaluation Methods	Analysis, generalization and creation of theories	Analysis and synthesis of design
+Goals achieved through	Corresponding Scientific Processes	Key Technological Processes
+Focus	Focuses on understanding natural phenomena	focuses on understanding the made environment
+Development Methods	Discovery (controlled by experimentation)	Design, invention, production
+Most observed quality	Drawing correct conclusions based on good theories and accurate data	Taking good decisions based on incomplete data and approximate models
+Skills needed to excel	Experimental and logical skills	Design, construction, testing, planning, quality assurance, problem solving, decision making, interpersonal and communication skills
+Definition of science and technology
+Science from the Latin scientia (knowledge) is a system of acquiring knowledge based on the scientific method, as well as the organized body of knowledge gained through such research. Science as defined here is sometimes termed pure science to differentiate it from applied science, which is the application of scientific research to specific human needs.
+
+Technology is a broad concept that deals with a species' usage and knowledge of tools and crafts, and how it affects a species' ability to control and adapt to its environment. In human society, it is a consequence of science and engineering, although several technological advances predate the two concepts.
+
+Science refers to a system of acquiring knowledge. This system uses observation and experimentation to describe and explain natural phenomena. The term science also refers to the organized body of knowledge people have gained using that system.
+
+Fields of science are commonly classified along two major lines:
+
+Natural sciences, which study natural phenomena (including biological life),
+Social sciences, which study human behavior and societies.
+These groupings are empirical sciences, which means the knowledge must be based on observable phenomena and capable of being tested for its validity by other researchers working under the same conditions.
+
+Differences in Etymology
+The word science comes through the Old French, and is derived from the Latin word scientia for knowledge, which in turn comes from scio - 'I know'. From the Middle Ages to the Enlightenment, science or scientia meant any systematic recorded knowledge. Science therefore had the same sort of very broad meaning that philosophy had at that time. In other languages, including French, Spanish, Portuguese, and Italian, the word corresponding to science also carries this meaning. Today, the primary meaning of "science" is generally limited to empirical study involving use of the scientific method.
+
+Technology is a term with origins in the Greek "technologia", "τεχνολογία" — "techne", "τέχνη" ("craft") and "logia", "λογία" ("saying"). However, a strict definition is elusive; "technology" can refer to material objects of use to humanity, such as machines, hardware or utensils, but can also encompass broader themes, including systems, methods of organization, and techniques. The term can either be applied generally or to specific areas: examples include "construction technology", "medical technology", or "state-of-the-art technology".
+
+Is Technology Related to Science?
+Bigelow’s phrase[1] “the practical applications of science” points to the root of much of the current confusion as to the meaning of technology. In using this phrase to describe technology he effectively placed technology beneath the umbrella of science to such an extent that science and technology are now, as Rose described, seen by many as an “indivisible pair” with technology as the subservient and dependant partner. Thus, for much of the time the pair are wrapped together into a single conceptual package known simply as “science”. This point is emphasised when surfing the Internet for technology-related teaching resources. A plethora of lesson plans exist at sites dedicated to science education. The problem is, though, that many of these lessons should properly be termed “technology” but are all too often referred to as "Applied Science".
+
+One source of confusion is the undoubted relationship that exists between science and technology and Sparks pointed out that even though science and technology overlap in an area which might be referred to as “applied science”, there are a number of important differences between the two, even though these differences might not be self-evident to an average member of the general public who, through neglect and through repeated use of the phrase “science and technology” has lost the distinction between “science” and between “technology”. The two cannot be told apart, which is hardly surprising given that, as Mayr put it: “ . . . practical usable criteria for making sharp neat distinctions between science and technology do not exist.”
